@@ -1,5 +1,5 @@
 # React.js Template with TypeScript
-contains react-router-dom, eslint, prettier and typescript configured
+contains react-router-dom, eslint, prettier, styled-components and typescript configured
 
 ## Available Scripts
 
