@@ -1,4 +1,4 @@
-# React.js Template with TypesScript
+# React.js Template with TypeScript
 
 
 ## Available Scripts
