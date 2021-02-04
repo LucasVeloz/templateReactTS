@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React.js Template with TypeScript
+contains react-router-dom, eslint, prettier, styled-components and typescript configured
 
 ## Available Scripts
 
